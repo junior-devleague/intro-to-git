@@ -1,6 +1,6 @@
 # intro-to-git
 
-This guide is meant to give you a quick introduction to the 4four steps of saving your work and pushing it up into your GitHub repo.  the four git commands we'll be covering are:
+This guide is meant to give you a quick introduction to the four steps of saving your work and pushing it up into your GitHub repo.  The four git commands we'll be covering are:
 
 1. git status
 2. git add .
