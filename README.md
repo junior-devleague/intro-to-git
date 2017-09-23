@@ -11,6 +11,10 @@ This guide is meant to give you a quick introduction to the 4four steps of savin
 
 You would start with a *git status* this command shows us what files were changed in red and if it is already added, then the color of the text will be green.
 
+![ScreenShot](https://raw.githubusercontent.com/junior-devleague/intro-to-git/master/assets/Screen%20Shot%202017-09-22%20at%203.05.45%20PM.png)
+
+**If you have changes, this is what it should look like:**
+
 
 
 ## git add .
